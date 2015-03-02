@@ -1,9 +1,10 @@
 # Site settings
 title: Vinicius Senna
 email: your-email@domain.com
-description: > # Developer with experience in C/C++, PHP, JavaSE and Android.
+description: > # this means to ignore newlines until "baseurl:"
+  Developer with experience in C/C++, PHP, JavaSE and Android.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://vsenna.github.io" # the base hostname & protocol for your site
+url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: vsenna
 github_username:  vsenna
 

@@ -4,7 +4,7 @@ title: Vinicius Senna
 url: "http://vsenna.github.com"
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink: pretty

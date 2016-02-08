@@ -1,7 +1,7 @@
 # Site settings
 title: Vinicius Senna
 baseurl: "/slim"
-url: "http://vsenna.github.com"
+url: "http://vsenna.github.io"
 
 # Build settings
 markdown: redcarpet

@@ -1,6 +1,6 @@
 # Site settings
 title: Vinicius Senna
-baseurl: "/slim"
+#baseurl: "/slim"
 url: "http://vsenna.github.com"
 
 # Build settings
